@@ -1,5 +1,5 @@
-# Precz z komuną
-
+# Przykładowa strona
+## precz z komuną
 Paragraf pierwszy
 
 Paragraf drugi

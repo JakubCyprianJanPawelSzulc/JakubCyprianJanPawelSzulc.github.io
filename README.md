@@ -1,4 +1,4 @@
-# Naglowek
+# Precz z komuną
 
 Paragraf pierwszy
 
